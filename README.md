@@ -1,5 +1,5 @@
 # sqlit
-[ Blind SQL Injection Tool ]
+[ Blind SQL Injection Tool (Boolean-based) ]
 
 # How to use it ?
 It is easy to use.
