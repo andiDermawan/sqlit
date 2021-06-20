@@ -1,6 +1,6 @@
 # sqlit
-Blind SQL Injection Tool
+[ Blind SQL Injection Tool ]
 
-𝗛𝗼𝘄 𝘁𝗼 𝘂𝘀𝗲 𝗶𝘁 ?
-
-it is easy to learn and you can edit the payload
+# How to use it ?
+It is easy to learn.
+You can edit the payload to adjust the query syntax
